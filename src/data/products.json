@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Zapatillas Running",
+    "price": 59.99,
+    "thumbnail": "https://picsum.dev/400/400?random=1"
+  },
+  {
+    "id": "2",
+    "title": "Reloj Deportivo",
+    "price": 129.0,
+    "thumbnail": "https://picsum.dev/400/400?random=2"
+  },
+  {
+    "id": "3",
+    "title": "Camiseta Deportiva",
+    "price": 29.99,
+    "thumbnail": "https://picsum.dev/400/400?random=3"
+  },
+  {
+    "id": "4",
+    "title": "Pantalón de Running",
+    "price": 49.99,
+    "thumbnail": "https://picsum.dev/400/400?random=4"
+  },
+  {
+    "id": "5",
+    "title": "Bolso Deportivo",
+    "price": 39.99,
+    "thumbnail": "https://picsum.dev/400/400?random=5"
+  },
+  {
+    "id": "6",
+    "title": "Gorra Deportiva",
+    "price": 19.99,
+    "thumbnail": "https://picsum.dev/400/400?random=6"
+  },
+  {
+    "id": "7",
+    "title": "Botas de Trabajo",
+    "price": 79.99,
+    "thumbnail": "https://picsum.dev/400/400?random=7"
+  },
+  {
+    "id": "8",
+    "title": "Mochila Deportiva",
+    "price": 69.99,
+    "thumbnail": "https://picsum.dev/400/400?random=8"
+  },
+  {
+    "id": "9",
+    "title": "Shorts de Running",
+    "price": 34.99,
+    "thumbnail": "https://picsum.dev/400/400?random=9"
+  },
+  {
+    "id": "10",
+    "title": "Gafas de Sol",
+    "price": 59.99,
+    "thumbnail": "https://picsum.dev/400/400?random=10"
+  }
+]
