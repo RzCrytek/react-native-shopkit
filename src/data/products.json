@@ -3,60 +3,70 @@
     "id": "1",
     "title": "Zapatillas Running",
     "price": 59.99,
-    "thumbnail": "https://picsum.dev/400/400?random=1"
+    "thumbnail": "https://picsum.dev/400/400?random=1",
+    "description": "Zapatillas de running ligeras y cómodas para tus entrenamientos diarios."
   },
   {
     "id": "2",
     "title": "Reloj Deportivo",
     "price": 129.0,
-    "thumbnail": "https://picsum.dev/400/400?random=2"
+    "thumbnail": "https://picsum.dev/400/400?random=2",
+    "description": "Reloj de deporte con funciones avanzadas para monitorear tu rendimiento."
   },
   {
     "id": "3",
     "title": "Camiseta Deportiva",
     "price": 29.99,
-    "thumbnail": "https://picsum.dev/400/400?random=3"
+    "thumbnail": "https://picsum.dev/400/400?random=3",
+    "description": "Camiseta transpirable y ligera, ideal para tus actividades deportivas."
   },
   {
     "id": "4",
     "title": "Pantalón de Running",
     "price": 49.99,
-    "thumbnail": "https://picsum.dev/400/400?random=4"
+    "thumbnail": "https://picsum.dev/400/400?random=4",
+    "description": "Pantalón de running ajustado y cómodo, perfecto para tus carreras."
   },
   {
     "id": "5",
     "title": "Bolso Deportivo",
     "price": 39.99,
-    "thumbnail": "https://picsum.dev/400/400?random=5"
+    "thumbnail": "https://picsum.dev/400/400?random=5",
+    "description": "Bolso espacioso y resistente para llevar tu equipo deportivo."
   },
   {
     "id": "6",
     "title": "Gorra Deportiva",
     "price": 19.99,
-    "thumbnail": "https://picsum.dev/400/400?random=6"
+    "thumbnail": "https://picsum.dev/400/400?random=6",
+    "description": "Gorra ligera y transpirable para protegerte del sol durante tus entrenamientos."
   },
   {
     "id": "7",
     "title": "Botas de Trabajo",
     "price": 79.99,
-    "thumbnail": "https://picsum.dev/400/400?random=7"
+    "thumbnail": "https://picsum.dev/400/400?random=7",
+    "description": "Botas resistentes y cómodas para trabajos exigentes."
   },
   {
     "id": "8",
     "title": "Mochila Deportiva",
     "price": 69.99,
-    "thumbnail": "https://picsum.dev/400/400?random=8"
+    "thumbnail": "https://picsum.dev/400/400?random=8",
+    "description": "Mochila espaciosa y duradera para llevar tu equipo deportivo."
   },
   {
     "id": "9",
     "title": "Shorts de Running",
     "price": 34.99,
-    "thumbnail": "https://picsum.dev/400/400?random=9"
+    "thumbnail": "https://picsum.dev/400/400?random=9",
+    "description": "Shorts de running ligeras y transpirables para tus entrenamientos."
   },
   {
     "id": "10",
     "title": "Gafas de Sol",
     "price": 59.99,
-    "thumbnail": "https://picsum.dev/400/400?random=10"
+    "thumbnail": "https://picsum.dev/400/400?random=10",
+    "description": "Gafas de sol con protección UV para protegerte del sol durante tus actividades al aire libre."
   }
 ]

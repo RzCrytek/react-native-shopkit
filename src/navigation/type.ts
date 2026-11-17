@@ -1,6 +1,8 @@
+import { NativeStackScreenProps } from "@react-navigation/native-stack";
+
 export type RootStackParamList = {
   Home: undefined;
-  ProductDetails: { productId: string };
+  Detail: { productId: string };
 };
 
 declare global {
