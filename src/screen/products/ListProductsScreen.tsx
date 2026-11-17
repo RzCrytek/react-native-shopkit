@@ -1,6 +1,6 @@
 import { FlatList, Image, Text, TouchableOpacity, View } from "react-native";
 import { SafeAreaProvider, SafeAreaView } from "react-native-safe-area-context";
-import products from "../data/products.json";
+import products from "../../data/products.json";
 import useListProducts from "./useListProducts";
 import { styles } from "./ListProductsStyle";
 
