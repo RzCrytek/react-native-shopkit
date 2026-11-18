@@ -1,11 +1,11 @@
 import { Image, ScrollView, Text, TouchableOpacity, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { NativeStackScreenProps } from "@react-navigation/native-stack";
-import { RootStackParamList } from "../../../../navigation/type";
+import { HomeStackParamList } from "../../../../navigation/types/home-types";
 import { useDetailProduct } from "./useDetailProduct";
 import { style } from "./DetailProductStyle";
 
-type DetailRouteProp = NativeStackScreenProps<RootStackParamList, "Detail">;
+type DetailRouteProp = NativeStackScreenProps<HomeStackParamList, "Detail">;
 
 const DetailProductScreen = ({ route }: DetailRouteProp) => {
   const { productId } = route.params;
