@@ -8,8 +8,8 @@ const Stack = createNativeStackNavigator<CategoryStackParamList>();
 const CategoryStack = () => {
   return (
     <Stack.Navigator>
-      <Stack.Screen name='Categories' component={ListCategoriesScreen} />
-      <Stack.Screen name='Detail' component={DetailCategoryScreen} />
+      <Stack.Screen name='CategoryList' component={ListCategoriesScreen} />
+      <Stack.Screen name='CategoryDetail' component={DetailCategoryScreen} />
     </Stack.Navigator>
   );
 };

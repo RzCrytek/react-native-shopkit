@@ -8,8 +8,8 @@ const Stack = createNativeStackNavigator<HomeStackParamList>();
 const HomeStack = () => {
   return (
     <Stack.Navigator screenOptions={{ headerBackTitle: "Volver" }}>
-      <Stack.Screen name='Home' component={ListProductsScreen} />
-      <Stack.Screen name='Detail' component={DetailProductScreen} />
+      <Stack.Screen name='HomeList' component={ListProductsScreen} />
+      <Stack.Screen name='HomeDetail' component={DetailProductScreen} />
     </Stack.Navigator>
   );
 };

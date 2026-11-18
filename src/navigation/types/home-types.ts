@@ -1,6 +1,6 @@
 export type HomeStackParamList = {
-  Home: undefined;
-  Detail: { productId: string };
+  HomeList: undefined;
+  HomeDetail: { productId: string };
 };
 
 declare global {

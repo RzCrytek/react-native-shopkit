@@ -1,6 +1,6 @@
 export type CategoryStackParamList = {
-  Categories: undefined;
-  Detail: { categoryId: string };
+  CategoryList: undefined;
+  CategoryDetail: { categoryId: string };
 };
 
 declare global {

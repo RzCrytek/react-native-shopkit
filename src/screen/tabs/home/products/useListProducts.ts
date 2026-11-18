@@ -13,7 +13,7 @@ const useListProducts = () => {
   const navigation = useNavigation<NativeStackNavigationProp<HomeStackParamList>>();
 
   const onClickProduct = (product: Product) => {
-    navigation.navigate("Detail", { productId: product.id });
+    navigation.navigate("HomeDetail", { productId: product.id });
   };
 
   return onClickProduct;

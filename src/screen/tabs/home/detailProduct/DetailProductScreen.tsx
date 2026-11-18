@@ -5,7 +5,7 @@ import { HomeStackParamList } from "../../../../navigation/types/home-types";
 import { useDetailProduct } from "./useDetailProduct";
 import { style } from "./DetailProductStyle";
 
-type DetailRouteProp = NativeStackScreenProps<HomeStackParamList, "Detail">;
+type DetailRouteProp = NativeStackScreenProps<HomeStackParamList, "HomeDetail">;
 
 const DetailProductScreen = ({ route }: DetailRouteProp) => {
   const { productId } = route.params;
